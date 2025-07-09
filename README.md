@@ -172,9 +172,12 @@ Price_t = Base × (1 + λ·NormalizedDemand)
 | Real-time pricing per lot   | Bokeh  | See how prices shift with demand       |
 | Competitor price comparison | Bokeh  | Validate effectiveness of competition  |
 | Time-based trend graphs     | Bokeh  | Track evolution of each lot’s pricing  |
-![img1](./bokeh_plot1.png)
----
 
+---
+![img1](./bokeh_plot1.png)
+![img2](./bokeh_plot2.png)
+![img3](./bokeh_plot3.png)
+---
 ##  Assumptions
 
 - Base price is fixed at **$10**  
